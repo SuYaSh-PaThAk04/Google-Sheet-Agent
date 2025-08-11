@@ -1,4 +1,4 @@
-ompetitor Price Tracker
+Competitor Price Tracker
 Automated Market Intelligence Solution for Research & Market Insights Department
 
 🎯 Executive Summary
