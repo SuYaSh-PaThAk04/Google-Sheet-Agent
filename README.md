@@ -25,6 +25,8 @@ Data Inconsistency: Manual entry errors and gaps
 
 🔧 Solution Overview
 Sheet Link - https://docs.google.com/spreadsheets/d/1OyERMEqdkyO74368xdhxCF94H4fbtKNCtuanUYGAZ4A/edit?usp=sharing
+
+
 Demo Video Link - https://drive.google.com/file/d/1jz_yM_5_avhoKKZfChpGfxldAJt1DirF/view?usp=sharing
 Automated Workflow
 [Daily Trigger 9AM] → [Price Collection] → [Change Detection] → [Alert Generation] → [Data Logging]
